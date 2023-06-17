@@ -1,0 +1,12 @@
+.star-wars-parent {
+    display: flex;
+    gap: 5vw;
+    align-items: center;
+}
+
+.add {
+   background-color: #24BC57;
+   border: none;
+   padding: 2%;
+   border-radius: 5px;
+}
