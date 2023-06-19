@@ -192,6 +192,10 @@ main {
     text-align: right;
   }
 
+  main {
+    width: 80vw;
+  }
+
 
   .form {
     grid-template: auto / 1fr;
@@ -204,10 +208,19 @@ main {
   .second--keyword  {
     min-height: 2rem;
   }
+
+
+  .meme {
+    width: 80%;
+  }
   .meme--button {
     min-height: 8.2vh;
   }
   .meme--button {
-    font-size: .8rem;
+    font-size: .9rem;
+  }
+
+  .meme--text {
+    font-size: 1rem;
   }
 }
