@@ -56,6 +56,9 @@ body {
 .nav--course {
 }
 
+
+
+
 /* MEME */
 main {
   width: 60vw;
@@ -187,10 +190,12 @@ main {
     font-size: 1rem;
   }
   .nav--course {
-    font-size: .8rem;
+    font-size: .6rem;
     width: 40%;
     text-align: right;
   }
+
+
 
   main {
     width: 80vw;
